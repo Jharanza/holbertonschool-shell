@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A3 "boot" /etc/passwd
+grep -A 3 boot /etc/passwd
